@@ -4,7 +4,9 @@ import preprocessor, helper
 import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
+import scipy
 import plotly.figure_factory as ff
+
 
 # for opening the web app in wide mode by default
 st.set_page_config(page_title='Olympic Data Analytics', page_icon='img/favicon.png', layout = 'wide', initial_sidebar_state = 'auto')
