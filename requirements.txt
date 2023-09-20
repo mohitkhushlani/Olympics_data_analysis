@@ -1,4 +1,8 @@
 streamlit
+pandas
+preprocessor
 plotly
-seaborn
 matplotlib
+seaborn
+numpy
+scipy
